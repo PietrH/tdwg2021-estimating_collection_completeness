@@ -1,7 +1,13 @@
 # Estimating the Completeness of Preserved Collections in Representing Global Biodiversity
 
+![poster](data/img/PS_74032_Huybrechts.png)
+
 ### DOI: https://doi.org/10.17161/bi.v7i2.3991
 **Citation:** Huybrechts P, Trekels M, Groom Q (2021) Estimating the Completeness of Preserved Collections in Representing Global Biodiversity. Biodiversity Information Science and Standards 5: e74032. https://doi.org/10.3897/biss.5.74032
+
+---
+
+![doi](data/img/doi_qr_v4_radialmask_rounded_prpl-logo-30pct.jpg)
 
 ---
 
