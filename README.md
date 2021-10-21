@@ -1,6 +1,9 @@
 # Estimating the Completeness of Preserved Collections in Representing Global Biodiversity
 
+### DOI: https://doi.org/10.17161/bi.v7i2.3991
+**Citation:** Huybrechts P, Trekels M, Groom Q (2021) Estimating the Completeness of Preserved Collections in Representing Global Biodiversity. Biodiversity Information Science and Standards 5: e74032. https://doi.org/10.3897/biss.5.74032
 
+---
 
 There are an estimated 8.7 million eukaryotic species globally and knowledge of those organisms is organised about their scientific names and the specimens we have of those species (Sweetlove 2011, Mora et al. 2011). Likewise there are between 1.2 and 2.1 billion (109) specimens held in biodiversity collections globally (Ariño 2010). These collections constitute an infrastructure and scientific tool to understand, catalogue and study biodiversity. Yet we find it hard to answer the simple question, how many species are in a collection? This is not trivial to answer, collections are not completely inventoried, do not use the same taxonomy, and the volume of data is vast (Samy et al. 2013, Ariño 2010). We have developed a method that allows us to take a list of collections and to estimate the species richness contained within them. By doing this we will have a deeper insight into the scientific value of the world's biodiversity collections.
 
